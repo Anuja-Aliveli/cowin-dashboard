@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #161625;
+  font-family: 'Roboto';
+  min-height: 100vh;
+  padding: 30px;
+}
+.head-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.head {
+  color: #2cc6c6;
+  font-size: 30px;
+  font-weight: 200px;
+}
+.main {
+  color: #ffffff;
+  margin-top: 0;
+}
+.loader {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-fail {
+    width: 300px;
+    height: 200px;
+margin-bottom: 10px;    
+}
+.fail-text {
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: 0;
+}
+.failure-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    align-items: center;
+    height: 400px;
+}

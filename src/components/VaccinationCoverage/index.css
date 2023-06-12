@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.bg-container {
+    background-color:  #1c1c2b;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.stat-head {
+color:  #cbd5e1;
+font-size: 20px;
+font-weight: normal;
+margin-bottom: 20px;
+margin-left: 20px;
+}
